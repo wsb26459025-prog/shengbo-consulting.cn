@@ -1,0 +1,19 @@
+# GitHub Pages 配置文件
+title: 王生波管理咨询
+description: 专注中小企业人力资源管理陪跑服务
+theme: minima
+plugins:
+  - jekyll-feed
+
+# 页面配置
+permalink: /:title/
+
+# 导航栏配置
+header_pages:
+  - index.md
+  - about.md
+  - services.md
+  - blog.md
+  - cases.md
+  - tools.md
+  - contact.md
